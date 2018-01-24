@@ -1,9 +1,8 @@
 # Learn Plain JavaScript from Top Articles for the Past Year
-Between Jan~Dec 2017, we’ve compared nearly 24,000 JavaScript articles to pick the Top 55.
-
-<br>
 
 <img src="background.png" width="800" alt="Mybridge"></a>
+
+Between Jan~Dec 2017, we’ve compared nearly 24,000 JavaScript articles to pick the Top 55.
 
 We made this directory, believing that reading articles written by experienced programmers is a great way to learn. After learning from a course or two, you may face many challenges in building and shipping an actual app.
 
@@ -44,8 +43,8 @@ No 1) [Modern JavaScript for Beginner: Learn and build projects with pure JavaSc
 
 No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions and practices included.](http://bit.ly/2Gc2mGb) 10,015 recommends, 4.6/5 stars
 
-
 <hr>
+
 ##  1. Guide
 * [Modern-js-cheatsheet: Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.](https://github.com/mbeaudru/modern-js-cheatsheet?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [JavaScript implementations of different famous Computer Science algorithms.](https://mgechev.github.io/javascript-algorithms/?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
