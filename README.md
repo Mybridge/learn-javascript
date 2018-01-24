@@ -43,7 +43,7 @@ No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions an
 1. [Debugging](#debugging)
 1. [Unit Testing](#unit-testing)
 
-<br>
+
 
 ##  1. Guide
 * [Modern-js-cheatsheet: Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.](https://github.com/mbeaudru/modern-js-cheatsheet?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
@@ -54,7 +54,7 @@ No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions an
 * [Airbnb Javascript Styleguide](https://github.com/airbnb/javascript?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [JavaScript. The Core: 2nd Edition - Dmitry Soshnikov](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
-<br>
+
 
 ##  2. Get Started
 * [Modern JavaScript Explained For Dinosaurs](https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
