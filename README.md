@@ -16,16 +16,6 @@ If you want a version with images: [Go to our Medium link](https://goo.gl/jXpP4H
 
 
 
-<hr>
-
-### Recommended Learning
-
-No 1) [Modern JavaScript for Beginner: Learn and build projects with pure JavaScript (No frameworks or libraries).](http://bit.ly/2E3RHNo) 4,995 recommends, 4.8/5 stars
-
-No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions and practices included.](http://bit.ly/2Gc2mGb) 10,015 recommends, 4.6/5 stars
-
-<hr>
-
 ## Table of Contents
 1. [Guide](#guide)
 1. [Get Started](#get-started)
@@ -44,6 +34,16 @@ No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions an
 1. [Unit Testing](#unit-testing)
 
 
+<hr>
+
+### Recommended Learning
+
+No 1) [Modern JavaScript for Beginner: Learn and build projects with pure JavaScript (No frameworks or libraries).](http://bit.ly/2E3RHNo) 4,995 recommends, 4.8/5 stars
+
+No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions and practices included.](http://bit.ly/2Gc2mGb) 10,015 recommends, 4.6/5 stars
+
+<hr>
+
 
 ##  Guide
 * [Modern-js-cheatsheet: Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.](https://github.com/mbeaudru/modern-js-cheatsheet?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
@@ -53,6 +53,7 @@ No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions an
 * [What the Fu*k JavaScript: A list of funny and tricky JavaScript examples](https://github.com/denysdovhan/wtfjs?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [Airbnb Javascript Styleguide](https://github.com/airbnb/javascript?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [JavaScript. The Core: 2nd Edition - Dmitry Soshnikov](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
 
 
 ##  Get Started
@@ -66,16 +67,19 @@ No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions an
 * [The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery) — SitePoint](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 
+
 ##  Webpack
 * [A Detailed Introduction To Webpack – Smashing Magazine](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [I maintain webpack, ask me anything!](https://dev.to/thelarkinn/i-maintain-webpack-ask-me-anything-an8?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [webpack bits: Getting the most out of the CommonsChunkPlugin()](https://medium.com/webpack/webpack-bits-getting-the-most-out-of-the-commonschunkplugin-ab389e5f318?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 
+
 ##  Performance
 * [The Cost Of JavaScript - Addy Osmani](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [JavaScript Start-up Performance - Addy Osmani](https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
 
 
 ##  Concept
@@ -87,15 +91,18 @@ No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions an
 * [Coding Tip: Try to Code Without If-statements – Samer Buna](https://medium.com/@samerbuna/coding-tip-try-to-code-without-if-statements-d06799eed231?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 
+
 ##  Funtional Programming
 * [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [The Rise and Fall and Rise of Functional Programming (Composing Software)](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
 
 
 ##  Interview
 * [The Definitive JavaScript Handbook for a developer interview](https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [Top 10 JavaScript Interview Questions](https://www.youtube.com/watch?v=oxoFVqetl1E?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [10 JavaScript concepts you need to know for interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
 
 
 ##  Case Study
@@ -107,6 +114,7 @@ No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions an
 * [Google Maps JavaScript API Tutorial](https://www.youtube.com/watch?v=Zxf1mnP5zcw?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 
+
 ##  Async Await
 * [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://medium.com/@mgaafar/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [Async/Await: Modern Concurrency In JavaScript](https://www.youtube.com/watch?v=NsQ2QIrQShU?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
@@ -115,13 +123,17 @@ No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions an
 * [Await and Async Explained with Diagrams and Examples](http://nikgrozev.com/2017/10/01/async-await?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 
+
 ##  Concurrency
 * [Concurrent JavaScript: It can work!](https://webkit.org/blog/7846/concurrent-javascript-it-can-work?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
+
 
 ##  V8
 * [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [How JavaScript works: an overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
 
 
 ##  Machine Learning
@@ -130,8 +142,10 @@ No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions an
 * [Machine Learning with JavaScript : Part 1](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 
+
 ##  Data Visualization
 * [A Better Way to Code: Introducing d3.express: the integrated discovery environment.](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
 
 
 ##  Debugging
@@ -139,6 +153,9 @@ No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions an
 * [How to get the most out of the JavaScript console](https://medium.freecodecamp.org/how-to-get-the-most-out-of-the-javascript-console-b57ca9db3e6d?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 
+
 ##  Unit Testing
 * [Unit testing in JavaScript [Part 1]: Why unit testing? - Fun Fun Function](https://www.youtube.com/watch?v=Eu35xM76kKY?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [An Overview of JavaScript Testing in 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
+
