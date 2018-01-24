@@ -17,6 +17,7 @@ If you want a version with images: [Go to our Medium link](https://goo.gl/jXpP4H
 
 
 ## Table of Contents
+0. [Recommended Learning](#recommended-learning)
 1. [Guide](#guide)
 1. [Get Started](#get-started)
 1. [Webpack](#webpack)
@@ -34,7 +35,6 @@ If you want a version with images: [Go to our Medium link](https://goo.gl/jXpP4H
 1. [Unit Testing](#unit-testing)
 
 <br>
-<hr>
 
 ### Recommended Learning
 
@@ -42,7 +42,6 @@ No 1) [Modern JavaScript for Beginner: Learn and build projects with pure JavaSc
 
 No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions and practices included.](http://bit.ly/2Gc2mGb) 10,015 recommends, 4.6/5 stars
 
-<hr>
 <br>
 
 ###  Guide
