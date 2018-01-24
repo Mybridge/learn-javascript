@@ -8,7 +8,7 @@ This directory will make it easier for you to find best JavaScript tutorials fro
 
 This directory has 15 key topics as shown below.
 
-<img src="chart.png" width="800" alt="Mybridge"></a>
+<img src="chart.png" width="1200" alt="Mybridge"></a>
 
 
 <br>
@@ -22,6 +22,11 @@ No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions an
 
 <br>
 
+
+## Table of Contents
+
+  1. [Guide](#guide)
+ 
 
 ## Top Articles
 ####  Guide
