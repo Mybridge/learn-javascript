@@ -17,7 +17,6 @@ If you want a version with images: [Go to our Medium link](https://goo.gl/jXpP4H
 
 
 ## Table of Contents
-0. [Recommended Learning](#recommended-learning)
 1. [Guide](#guide)
 1. [Get Started](#get-started)
 1. [Webpack](#webpack)
