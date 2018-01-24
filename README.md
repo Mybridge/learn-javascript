@@ -25,7 +25,21 @@ No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions an
 
 ## Table of Contents
 
-  1. [Guide](#guide)
+1. [Guide](#Guide)
+1. [Get Started](#Get Started)
+1. [Webpack](#Webpack)
+1. [Performance](#Performance)
+1. [Concept](#Concept)
+1. [Funtional Programming](#Funtional Programming)
+1. [Interview](#Interview)
+1. [Case Study](#Case Study)
+1. [Async Await](#Async Await)
+1. [Concurrency](#Concurrency)
+1. [V8](#V8)
+1. [Machine Learning](#Machine Learning)
+1. [Data Visualization](#Data Visualization)
+1. [Debugging](#Debugging)
+1. [Unit Testing](#Unit Testing)
  
 
 ## Top Articles
