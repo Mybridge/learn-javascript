@@ -25,8 +25,8 @@ No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions an
 
 ## Table of Contents
 
-1. [Guide](#Guide)
-1. [Get Started](#Get-Started)
+1. [Guide](#guide)
+1. [Get Started](#get-started)
 1. [Webpack](#Webpack)
 1. [Performance](#Performance)
 1. [Concept](#Concept)
