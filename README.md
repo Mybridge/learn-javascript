@@ -15,8 +15,16 @@ This directory has 15 key topics as shown below.
 If you want a version with images: [Go to our Medium link](https://goo.gl/jXpP4H)
 
 
-<br>
 
+<hr>
+
+### Recommended Learning
+
+No 1) [Modern JavaScript for Beginner: Learn and build projects with pure JavaScript (No frameworks or libraries).](http://bit.ly/2E3RHNo) 4,995 recommends, 4.8/5 stars
+
+No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions and practices included.](http://bit.ly/2Gc2mGb) 10,015 recommends, 4.6/5 stars
+
+<hr>
 
 ## Table of Contents
 1. [Guide](#guide)
@@ -35,15 +43,7 @@ If you want a version with images: [Go to our Medium link](https://goo.gl/jXpP4H
 1. [Debugging](#debugging)
 1. [Unit Testing](#unit-testing)
 
-<hr>
-
-### Recommended Learning
-
-No 1) [Modern JavaScript for Beginner: Learn and build projects with pure JavaScript (No frameworks or libraries).](http://bit.ly/2E3RHNo) 4,995 recommends, 4.8/5 stars
-
-No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions and practices included.](http://bit.ly/2Gc2mGb) 10,015 recommends, 4.6/5 stars
-
-<hr>
+<br>
 
 ##  1. Guide
 * [Modern-js-cheatsheet: Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.](https://github.com/mbeaudru/modern-js-cheatsheet?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
