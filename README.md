@@ -39,14 +39,14 @@ No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions an
 * [Modern JavaScript for Ancient Web Developers](https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [JavaScript Patterns for 2017 - Scott Allen](https://www.youtube.com/watch?v=hO7mzO83N1Q?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [ES6 for beginners with example](https://dev.to/srebalaji/es6-for-beginners-with-example-c7?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
-* [JavaScript got better while I wasnâ€™tÂ looking](https://eev.ee/blog/2017/10/07/javascript-got-better-while-i-wasnt-looking?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
-* [I just asked 23,000 developers what they think of JavaScript. Hereâ€™s what IÂ learned.](https://medium.freecodecamp.org/i-just-asked-23-000-developers-what-they-think-of-javascript-heres-what-i-learned-9a06b61998fa?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
-* [How I rediscovered my love for JavaScript after throwing 90% of it in theÂ trash.](https://hackernoon.com/how-i-rediscovered-my-love-for-javascript-after-throwing-90-of-it-in-the-trash-f1baed075d1b?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
-* [The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery) â€” SitePoint](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+* [JavaScript got better while I wasn’t looking](https://eev.ee/blog/2017/10/07/javascript-got-better-while-i-wasnt-looking?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+* [I just asked 23,000 developers what they think of JavaScript. Here’s what I learned.](https://medium.freecodecamp.org/i-just-asked-23-000-developers-what-they-think-of-javascript-heres-what-i-learned-9a06b61998fa?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+* [How I rediscovered my love for JavaScript after throwing 90% of it in the trash.](https://hackernoon.com/how-i-rediscovered-my-love-for-javascript-after-throwing-90-of-it-in-the-trash-f1baed075d1b?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+* [The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery) — SitePoint](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 
 ####  Webpack
-* [A Detailed Introduction To Webpack â€“ Smashing Magazine](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+* [A Detailed Introduction To Webpack – Smashing Magazine](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [I maintain webpack, ask me anything!](https://dev.to/thelarkinn/i-maintain-webpack-ask-me-anything-an8?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [webpack bits: Getting the most out of the CommonsChunkPlugin()](https://medium.com/webpack/webpack-bits-getting-the-most-out-of-the-commonschunkplugin-ab389e5f318?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
@@ -54,16 +54,16 @@ No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions an
 ####  Performance
 * [The Cost Of JavaScript - Addy Osmani](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [JavaScript Start-up Performance - Addy Osmani](https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
-* [How JavaScript works: memory management + how to handle 4 common memoryÂ leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+* [How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 
 ####  Concept
 * [Understanding Scope in JavaScript](https://scotch.io/tutorials/understanding-scope-in-javascript?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [Glossary of Modern JavaScript Concepts: Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
-* [7 tips to handle undefined in JavaScript - Dmitri Pavlutinâ€](https://rainsoft.io/7-tips-to-handle-undefined-in-javascript?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+* [7 tips to handle undefined in JavaScript - Dmitri Pavlutin‏](https://rainsoft.io/7-tips-to-handle-undefined-in-javascript?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [Hard Coding Concepts Explained with Simple Real-life Analogies](https://medium.freecodecamp.org/hard-coding-concepts-explained-with-simple-real-life-analogies-280635e98e37?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [JavaScript Promise Explained in a Burger Party](http://kosamari.com/notes/the-promise-of-a-burger-party?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
-* [Coding Tip: Try to Code Without If-statements â€“ Samer Buna](https://medium.com/@samerbuna/coding-tip-try-to-code-without-if-statements-d06799eed231?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+* [Coding Tip: Try to Code Without If-statements – Samer Buna](https://medium.com/@samerbuna/coding-tip-try-to-code-without-if-statements-d06799eed231?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 
 ####  Funtional Programming
@@ -78,8 +78,8 @@ No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions an
 
 
 ####  Case Study
-* [Coding Snake" in 4 min 30 sec (plain browser JavaScript)"](https://www.youtube.com/watch?v=xGmXxpIj6vs?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
-* [How we built our first full-stack JavaScript web app in threeÂ weeks](https://medium.com/ladies-storm-hackathons/how-we-built-our-first-full-stack-javascript-web-app-in-three-weeks-8a4668dbd67c?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+* [Coding "Snake" in 4 min 30 sec (plain browser JavaScript)](https://www.youtube.com/watch?v=xGmXxpIj6vs?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+* [How we built our first full-stack JavaScript web app in three weeks](https://medium.com/ladies-storm-hackathons/how-we-built-our-first-full-stack-javascript-web-app-in-three-weeks-8a4668dbd67c?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [Build An Interactive Game of Thrones Map (Part II) - Leaflet.js & Webpack](https://blog.patricktriest.com/game-of-thrones-leaflet-webpack?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [Creating a blockchain with Javascript (Blockchain, part 1)](https://www.youtube.com/watch?v=zVqczFZr124?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [How We Hacked Our Coffee Machine with JavaScript](https://moin.world/2017/04/01/how-we-hacked-our-coffee-machine-with-javascript?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
@@ -87,7 +87,7 @@ No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions an
 
 
 ####  Async Await
-* [6 Reasons Why JavaScriptâ€™s Async/Await Blows Promises Away (Tutorial)](https://medium.com/@mgaafar/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+* [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://medium.com/@mgaafar/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [Async/Await: Modern Concurrency In JavaScript](https://www.youtube.com/watch?v=NsQ2QIrQShU?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with async/await](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [async / await in JavaScript - What, Why and How - Fun Fun Function](https://www.youtube.com/watch?v=568g8hxJJp4?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
@@ -99,18 +99,18 @@ No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions an
 
 ####  V8
 * [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
-* [Understanding V8â€™sÂ Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
-* [How JavaScript works: an overview of the engine, the runtime, and the callÂ stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+* [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+* [How JavaScript works: an overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 
 ####  Machine Learning
 * [Neural Networks in JavaScript with deeplearn.js](https://www.robinwieruch.de/neural-networks-deeplearnjs-javascript?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
-* [How to create a Neural Network in JavaScript in only 30 lines ofÂ code](https://medium.freecodecamp.org/how-to-create-a-neural-network-in-javascript-in-only-30-lines-of-code-343dafc50d49?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
-* [Machine Learning with JavaScriptÂ : PartÂ 1](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+* [How to create a Neural Network in JavaScript in only 30 lines of code](https://medium.freecodecamp.org/how-to-create-a-neural-network-in-javascript-in-only-30-lines-of-code-343dafc50d49?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+* [Machine Learning with JavaScript : Part 1](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 
 ####  Data Visualization
-* [A Better Way toÂ Code: Introducing d3.express: the integrated discovery environment.](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+* [A Better Way to Code: Introducing d3.express: the integrated discovery environment.](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 
 ####  Debugging
@@ -120,5 +120,4 @@ No 2) [Advanced JavaScript: Become a Senior JS developer. Interview questions an
 
 ####  Unit Testing
 * [Unit testing in JavaScript [Part 1]: Why unit testing? - Fun Fun Function](https://www.youtube.com/watch?v=Eu35xM76kKY?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
-* [An Overview of JavaScript Testing inÂ 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
-
+* [An Overview of JavaScript Testing in 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
