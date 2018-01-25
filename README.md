@@ -2,6 +2,8 @@
 
 <img src="background.png" width="800" alt="Mybridge"></a>
 
+[English Version](./README.md) | [中文版本](./CN.md)
+
 Between Jan~Dec 2017, we’ve compared nearly 24,000 JavaScript articles to pick the Top 55.
 
 We made this directory, believing that reading articles written by experienced programmers is a great way to learn. After learning from a course or two, you may face many challenges in building and shipping an actual app.
