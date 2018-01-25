@@ -2,6 +2,8 @@
 
 <img src="background.png" width="800" alt="Mybridge"></a>
 
+[English Version](./README.md) | [中文版本](./CN.md)
+
 在2017年1月至12月之间，我们对比了近24000篇 JavaScript 文章，并从中挑选出了最好的55篇。
 
 我们做了这个目录，认为阅读有经验的程序员写的文章是一个很好的学习方式。在学习了一两门课程之后，您可能在构建和发布实际应用时面临许多挑战。
